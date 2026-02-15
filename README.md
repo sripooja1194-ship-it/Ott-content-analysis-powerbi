@@ -20,4 +20,8 @@ This project analyzes OTT platform content data to identify genre distribution, 
 - Drama and Comedy are most common genres
 - Majority of content released after 2015
 - Certain countries dominate content production
+## Dashboard Preview
+
+![Dashboard](![ott_analysis_dashboard](https://github.com/user-attachments/assets/57eca5b6-5491-4665-8dce-3fe77eb24ca5)
+)
 
