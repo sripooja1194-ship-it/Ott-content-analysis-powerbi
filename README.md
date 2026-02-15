@@ -21,4 +21,7 @@ This project analyzes OTT platform content data to identify genre distribution, 
 - Majority of content released after 2015
 - Certain countries dominate content production
 
+## Dashboard Preview
+
+![Dashboard](ott_analysis_dashboard.jpeg)
 
