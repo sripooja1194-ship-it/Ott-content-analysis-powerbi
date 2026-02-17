@@ -23,5 +23,6 @@ This project analyzes OTT platform content data to identify genre distribution, 
 
 ## Dashboard Preview
 
-![Dashboard](ott_analysis_dashboard.jpeg)
+![Dashboard](<img width="1009" height="576" alt="Ott content analysis dashboard" src="https://github.com/user-attachments/assets/6cface46-2ae1-4223-b2db-b5ff30e387f1" />
+)
 
